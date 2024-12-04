@@ -1,0 +1,15 @@
+{
+  "id" : "https://tracy-st.github.io/rasikapriya/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in tracy-st/rasikapriya project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://tracy-st.github.io/rasikapriya/manifests/manifest.json",
+    "label" : {
+      "en" : [ "Krishna's Manifest Vision through Sound (Kavitt), from a Rasikapriya series" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
