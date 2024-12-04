@@ -1,0 +1,139 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://tracy-st.github.io/rasikapriya/manifests/ham_ras_edit.json",
+  "type" : "Manifest",
+  "behavior" : [ "individuals" ],
+  "label" : {
+    "none" : [ "Krishna's Manifest Vision through Sound (Kavitt), from a Rasikapriya series" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "none" : [ "Date" ]
+    },
+    "value" : {
+      "none" : [ "c. 1660-1680" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Classification" ]
+    },
+    "value" : {
+      "none" : [ "Manuscripts" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Credit Line" ]
+    },
+    "value" : {
+      "none" : [ "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Philip Hofer" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Object Number" ]
+    },
+    "value" : {
+      "none" : [ "1984.458" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "People" ]
+    },
+    "value" : {
+      "none" : [ "Artist: Unknown Artist" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Medium" ]
+    },
+    "value" : {
+      "none" : [ "Opaque watercolor and gold on paper; Rajput Style" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Dimensions" ]
+    },
+    "value" : {
+      "none" : [ "38.5 x 25 cm (15 3/16 x 9 13/16 in.)" ]
+    }
+  } ],
+  "summary" : {
+    "none" : [ "" ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "none" : [ "Attribution" ]
+    },
+    "value" : {
+      "none" : [ "Harvard Art Museums" ]
+    }
+  },
+  "thumbnail" : [ {
+    "id" : "https://ids.lib.harvard.edu/ids/iiif/18481872/full/!170,170/0/default.jpg",
+    "type" : "Image",
+    "service" : [ {
+      "@id" : "https://ids.lib.harvard.edu/ids/iiif/18481872",
+      "@type" : "ImageService2",
+      "profile" : "level2"
+    } ]
+  } ],
+  "provider" : [ {
+    "id" : "http://example.org/provider",
+    "type" : "Agent",
+    "label" : {
+      "none" : [ "Unknown" ]
+    },
+    "logo" : [ {
+      "id" : "https://ids.lib.harvard.edu/ids/iiif/437958013/full/!800,800/0/default.jpg",
+      "type" : "Image",
+      "service" : [ {
+        "@id" : "https://ids.lib.harvard.edu/ids/iiif/437958013",
+        "@type" : "ImageService2",
+        "profile" : "level2"
+      } ]
+    } ]
+  } ],
+  "rendering" : [ {
+    "id" : "https://www.harvardartmuseums.org/collections/object/216197",
+    "type" : "Text",
+    "format" : "text/html",
+    "label" : {
+      "none" : [ "Full record view" ]
+    }
+  } ],
+  "partOf" : [ {
+    "id" : "https://www.harvardartmuseums.org/collections",
+    "type" : "Collection"
+  } ],
+  "items" : [ {
+    "id" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872",
+    "type" : "Canvas",
+    "height" : 2550,
+    "width" : 1726,
+    "label" : {
+      "none" : [ "1" ]
+    },
+    "items" : [ {
+      "id" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.harvardartmuseums.org/manifests/object/216197/annotation/anno-18481872",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872",
+        "body" : {
+          "id" : "https://ids.lib.harvard.edu/ids/iiif/18481872/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2550,
+          "width" : 1726,
+          "service" : [ {
+            "@id" : "https://ids.lib.harvard.edu/ids/iiif/18481872",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "id" : "https://ids.lib.harvard.edu/ids/iiif/18481872"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
