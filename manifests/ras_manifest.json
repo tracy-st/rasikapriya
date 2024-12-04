@@ -48,10 +48,6 @@
       "@type" : "sc:Canvas",
       "height" : 2550,
       "images" : [ {
-        "@id" : "https://iiif.harvardartmuseums.org/manifests/object/216197/annotation/anno-18481872",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872",
         "resource" : {
           "@id" : "https://ids.lib.harvard.edu/ids/iiif/18481872/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
