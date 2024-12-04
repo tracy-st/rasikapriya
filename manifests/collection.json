@@ -11,5 +11,11 @@
       "en" : [ "Krishna's Manifest Vision through Sound (Kavitt), from a Rasikapriya series" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://tracy-st.github.io/rasikapriya/manifests/ham_ras_edit.json",
+    "label" : {
+      "none" : [ "Krishna's Manifest Vision through Sound (Kavitt), from a Rasikapriya series" ]
+    },
+    "type" : "Manifest"
   } ]
 }
