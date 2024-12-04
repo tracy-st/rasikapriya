@@ -1,0 +1,286 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "12",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>12</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112089836758322047733",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-12-04T19:38:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733341120404",
+    "dcterms:modified" : "2024-12-04T19:38:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://tracy-st.github.io/rasikapriya/manifests/ras_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=300,1363,13,20"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M306.59592,1382.96452c0,-4.37219 2.1861,-8.74438 6.55829,-13.11658c0,-3.62204 -2.93625,-6.55829 -6.55829,-6.55829c-3.62204,0 -6.55829,2.93625 -6.55829,6.55829c4.37219,4.37219 6.55829,8.74438 6.55829,13.11658z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_aff67d3a-3cb9-47b5-a359-6e3cb090b768\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Green",
+      "@type" : "oa:Tag",
+      "chars" : "Green"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "XRF",
+      "@type" : "oa:Tag",
+      "chars" : "XRF"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dark Green tree left of Krishna",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dark Green tree left of Krishna</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112089836758322047733",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-12-04T19:45:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733341518489",
+    "dcterms:modified" : "2024-12-04T19:45:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://tracy-st.github.io/rasikapriya/manifests/ras_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1012,1805,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1016.55167,1818.51984c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_d22787ef-4d70-4cba-9fca-f40f7850aad1\" fill=\"#38c172\" fill-rule=\"nonzero\" stroke=\"#38c172\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "4",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>4</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112089836758322047733",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-12-04T19:39:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733341163560",
+    "dcterms:modified" : "2024-12-04T19:39:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://tracy-st.github.io/rasikapriya/manifests/ras_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1220,1962,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1224.28717,1975.46856c0,-3.03624 1.51812,-6.07249 4.55437,-9.10873c0,-2.51531 -2.03906,-4.55437 -4.55437,-4.55437c-2.51531,0 -4.55437,2.03906 -4.55437,4.55437c3.03624,3.03624 4.55437,6.07249 4.55437,9.10873z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_8cfde971-ab24-470e-a0e3-09a31e2d1371\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "White",
+      "@type" : "oa:Tag",
+      "chars" : "White"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "XRF",
+      "@type" : "oa:Tag",
+      "chars" : "XRF"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "architecture",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>architecture</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112089836758322047733",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-12-04T19:44:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733341446682",
+    "dcterms:modified" : "2024-12-04T19:44:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://tracy-st.github.io/rasikapriya/manifests/ras_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=310,908,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M314.54545,921.65446c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_b1093aa2-455e-4005-baa4-be878344d7f4\" fill=\"#ffffff\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "1",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>1</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112089836758322047733",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-12-04T19:39:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733341193718",
+    "dcterms:modified" : "2024-12-04T19:39:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://tracy-st.github.io/rasikapriya/manifests/ras_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1112,2213,16,24"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1119.3723,2237.09687c0,-5.24663 2.62332,-10.49326 7.86995,-15.73989c0,-4.34645 -3.52349,-7.86995 -7.86995,-7.86995c-4.34645,0 -7.86995,3.52349 -7.86995,7.86995c5.24663,5.24663 7.86995,10.49326 7.86995,15.73989z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_f43d8600-2767-46fd-938c-5cb95adf7aa6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "10",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>10</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112089836758322047733",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-12-04T19:38:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733341099125",
+    "dcterms:modified" : "2024-12-04T19:38:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://tracy-st.github.io/rasikapriya/manifests/ras_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1053,692,11,16"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1058.34485,708.28462c0,-3.64349 1.82175,-7.28699 5.46524,-10.93048c0,-3.01837 -2.44687,-5.46524 -5.46524,-5.46524c-3.01837,0 -5.46524,2.44687 -5.46524,5.46524c3.64349,3.64349 5.46524,7.28699 5.46524,10.93048z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_86186d60-7394-4e1d-9677-51645fea1e5b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "11",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>11</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112089836758322047733",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-12-04T19:40:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733341209219",
+    "dcterms:modified" : "2024-12-04T19:40:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://tracy-st.github.io/rasikapriya/manifests/ras_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=362,1420,16,24"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M370.15341,1443.80628c0,-5.24663 2.62332,-10.49326 7.86995,-15.73989c0,-4.34645 -3.52349,-7.86995 -7.86995,-7.86995c-4.34645,0 -7.86995,3.52349 -7.86995,7.86995c5.24663,5.24663 7.86995,10.49326 7.86995,15.73989z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_e4099111-0154-4cfe-bcb2-4b27f2316392\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "9",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>9</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112089836758322047733",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-12-04T19:39:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733341172160",
+    "dcterms:modified" : "2024-12-04T19:39:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://tracy-st.github.io/rasikapriya/manifests/ras_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1256,1481,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1260.72211,1494.5274c0,-3.03624 1.51812,-6.07249 4.55437,-9.10873c0,-2.51531 -2.03906,-4.55437 -4.55437,-4.55437c-2.51531,0 -4.55437,2.03906 -4.55437,4.55437c3.03624,3.03624 4.55437,6.07249 4.55437,9.10873z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_4f0242b4-82eb-4e02-bb43-ed0e7a306301\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.harvardartmuseums.org/manifests/object/216197/canvas/canvas-18481872"
+    } ]
+  } ],
+  "@id" : "https://tracy-st.github.io/rasikapriya/annotations/2af013c88d2748a62d29e79dbd8ff75d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
