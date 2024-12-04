@@ -1,0 +1,34 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://tracy-st.github.io/rasikapriya/manifests/manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Krishna's Manifest Vision through Sound (Kavitt), from a Rasikapriya series" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/eq1p9zh5e9s-m4a81cp1/canvas/e73vqm2aq86-m4a81q5w",
+    "type" : "Canvas",
+    "height" : 2400,
+    "width" : 1625,
+    "label" : {
+      "en" : [ "Krishna's Manifest Vision through Sound (Kavitt), from a Rasikapriya series" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/eq1p9zh5e9s-m4a81cp1/canvas/e73vqm2aq86-m4a81q5w/annotation-page/iunx9ahb8vj-m4a81q5w",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/eq1p9zh5e9s-m4a81cp1/annotation/cz56c6jh3ul-m4a81p1m",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/eq1p9zh5e9s-m4a81cp1/canvas/e73vqm2aq86-m4a81q5w",
+        "body" : {
+          "id" : "https://ids.lib.harvard.edu/ids/view/18481872?width=3000&height=3000",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2400,
+          "width" : 1625
+        }
+      } ]
+    } ]
+  } ]
+}
