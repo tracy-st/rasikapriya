@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tracy-st.github.io/rasikapriya/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in tracy-st/rasikapriya project"
+        ]
+    },
+    "items": []
+}
