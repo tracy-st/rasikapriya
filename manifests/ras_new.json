@@ -86,6 +86,5 @@
           "@id": "https://ids.lib.harvard.edu/ids/iiif/18481872",
           "profile": "http://iiif.io/api/image/2/level2.json"
       }
-  },
-  "within": "https://www.harvardartmuseums.org/collections"
+  }
 }
