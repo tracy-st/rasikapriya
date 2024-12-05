@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://iiif.harvardartmuseums.org/manifests/object/216197",
+  "@id": "https://tracy-st.github.io/rasikapriya/manifests/ras_new.json",
   "@type": "sc:Manifest",
   "attribution": "Harvard Art Museums",
   "label": "Krishna's Manifest Vision through Sound (Kavitt), from a Rasikapriya series",
