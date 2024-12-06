@@ -7,5 +7,87 @@
             "All images loaded in tracy-st/rasikapriya project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://tracy-st.github.io/rasikapriya/images/quells_0035_Layer-0/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "quells_0035_Layer-0"
+                ]
+            },
+            "height": 2252,
+            "width": 1946,
+            "items": [
+                {
+                    "id": "https://tracy-st.github.io/rasikapriya/images/quells_0035_Layer-0/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tracy-st.github.io/rasikapriya/images/quells_0035_Layer-0/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tracy-st.github.io/rasikapriya/images/quells_0035_Layer-0/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 61,
+                                                "height": 71
+                                            },
+                                            {
+                                                "width": 122,
+                                                "height": 141
+                                            },
+                                            {
+                                                "width": 244,
+                                                "height": 282
+                                            },
+                                            {
+                                                "width": 487,
+                                                "height": 563
+                                            },
+                                            {
+                                                "width": 973,
+                                                "height": 1126
+                                            },
+                                            {
+                                                "width": 1946,
+                                                "height": 2252
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1946,
+                                        "@id": "https://tracy-st.github.io/rasikapriya/images/quells_0035_Layer-0",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2252,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tracy-st.github.io/rasikapriya/images/quells_0035_Layer-0/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
