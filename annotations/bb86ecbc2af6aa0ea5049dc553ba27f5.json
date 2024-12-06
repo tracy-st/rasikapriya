@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Gold",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Gold</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112089836758322047733",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-12-06T15:34:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1733499248485",
+    "dcterms:modified" : "2024-12-06T15:34:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.harvardartmuseums.org/manifests/object/216135"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1086,275,10,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1090.75915,289.01681c0,-3.20991 1.60495,-6.41982 4.81486,-9.62973c0,-2.65918 -2.15569,-4.81486 -4.81486,-4.81486c-2.65918,0 -4.81486,2.15569 -4.81486,4.81486c3.20991,3.20991 4.81486,6.41982 4.81486,9.62973z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_ed2dc288-6433-4814-8794-7f5b33cd5207\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.harvardartmuseums.org/manifests/object/216135/canvas/canvas-434430945"
+    } ]
+  } ],
+  "@id" : "https://tracy-st.github.io/rasikapriya/annotations/bb86ecbc2af6aa0ea5049dc553ba27f5.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
