@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://tracy-st.github.io/rasikapriya/annotations/2af013c88d2748a62d29e79dbd8ff75d.json" ],
+  "otherContent" : [ "https://tracy-st.github.io/rasikapriya/annotations/2af013c88d2748a62d29e79dbd8ff75d.json", "https://tracy-st.github.io/rasikapriya/annotations/bb86ecbc2af6aa0ea5049dc553ba27f5.json" ],
   "@id" : "https://tracy-st.github.io/rasikapriya/annotations/collection.json",
   "label" : "All annotations loaded in tracy-st/rasikapriya project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
