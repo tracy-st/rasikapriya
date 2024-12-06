@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://tracy-st.github.io/rasikapriya/manifests/manifest_clean.json",
     "label" : "Krishna's Manifest Vision through Sound (Kavitt), from a Rasikapriya series"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://tracy-st.github.io/rasikapriya/manifests/layers_harvard.json",
+    "label" : "Harvard Layer Test"
   } ]
 }
