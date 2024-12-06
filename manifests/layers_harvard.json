@@ -1,0 +1,138 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://tracy-st.github.io/rasikapriya/manifests/layers_harvard.json",
+  "@type" : "sc:Manifest",
+  "label" : "Harvard Layer Test",
+  "sequences" : [ {
+    "@id" : "https://example.org/x4niyfsa6a-m4cu5xpx/sequence0",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/bp2njen90mq-m4cy8lak",
+      "@type" : "sc:Canvas",
+      "height" : 2227,
+      "width" : 1944,
+      "label" : "Harvard image",
+      "images" : [ {
+        "@id" : "https://example.org/x4niyfsa6a-m4cu5xpx/annotation/a4qskfgtgdf-m4cy8f7u",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : {
+          "type" : "SpecificResource",
+          "source" : {
+            "id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/bp2njen90mq-m4cy8lak",
+            "type" : "Canvas"
+          }
+        },
+        "resource" : {
+          "@id" : "https://ids.lib.harvard.edu/ids/iiif/434430945/91,100,2019,2324/1906,/1/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 2227,
+          "width" : 1944
+        }
+      } ]
+    }, {
+      "@id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/x5wx8sf4x4j-m4cubvz6",
+      "@type" : "sc:Canvas",
+      "height" : 2252,
+      "width" : 1946,
+      "label" : "Main Image",
+      "images" : [ [ {
+        "@id" : "https://example.org/x4niyfsa6a-m4cu5xpx/annotation/84vfaswl3u2-m4cubvy4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : {
+          "type" : "SpecificResource",
+          "source" : {
+            "id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/x5wx8sf4x4j-m4cubvz6",
+            "type" : "Canvas"
+          }
+        },
+        "resource" : {
+          "@id" : "http://127.0.0.1:5500/mch_psd/quells_0035_Layer-0.png",
+          "@type" : "dctypes:Image",
+          "format" : "image/png",
+          "height" : 2252,
+          "width" : 1946
+        }
+      }, {
+        "@id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/x5wx8sf4x4j-m4cubvz6/annotation-page/oz4wzd5plnm-m4cubvz6/annotation/xagbtke7kw-m4cucjtk",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : {
+          "type" : "SpecificResource",
+          "source" : {
+            "id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/x5wx8sf4x4j-m4cubvz6",
+            "type" : "Canvas"
+          }
+        },
+        "resource" : {
+          "@id" : "http://127.0.0.1:5500/mch_psd/quells_0002_c34a41-(35)-Red-Vermillion-(3%2C8).png",
+          "@type" : "dctypes:Image",
+          "format" : "image/png",
+          "height" : 2252,
+          "width" : 1946
+        }
+      }, {
+        "@id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/x5wx8sf4x4j-m4cubvz6/annotation-page/oz4wzd5plnm-m4cubvz6/annotation/iovce4hg0xr-m4cwbyoq",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : {
+          "type" : "SpecificResource",
+          "source" : {
+            "id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/x5wx8sf4x4j-m4cubvz6",
+            "type" : "Canvas"
+          }
+        },
+        "resource" : {
+          "@id" : "http://127.0.0.1:5500/mch_psd/quells_0032_565c4f---Blue-(1%2C-29_)---indigo.png",
+          "@type" : "dctypes:Image",
+          "format" : "image/png",
+          "height" : 2252,
+          "width" : 1946
+        }
+      }, {
+        "@id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/x5wx8sf4x4j-m4cubvz6/annotation-page/oz4wzd5plnm-m4cubvz6/annotation/otlburbgjzp-m4cwcq84",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : {
+          "type" : "SpecificResource",
+          "source" : {
+            "id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/x5wx8sf4x4j-m4cubvz6",
+            "type" : "Canvas"
+          }
+        },
+        "resource" : {
+          "@id" : "http://127.0.0.1:5500/mch_psd/quells_0006_c19659-(35)-Metallic-G-S-(13%2C-10)---jewelry.png",
+          "@type" : "dctypes:Image",
+          "format" : "image/png",
+          "height" : 2252,
+          "width" : 1946
+        }
+      }, {
+        "@id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/x5wx8sf4x4j-m4cubvz6/annotation-page/oz4wzd5plnm-m4cubvz6/annotation/0x3eqshyyuj-m4cwe3ba",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : {
+          "type" : "SpecificResource",
+          "source" : {
+            "id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/x5wx8sf4x4j-m4cubvz6",
+            "type" : "Canvas"
+          }
+        },
+        "resource" : {
+          "@id" : "http://127.0.0.1:5500/mch_psd/quells_0027_b6837a---pink-(24%2C-12).png",
+          "@type" : "dctypes:Image",
+          "format" : "image/png",
+          "height" : 2252,
+          "width" : 1946
+        }
+      } ] ],
+      "annotations" : {
+        "@id" : "https://example.org/x4niyfsa6a-m4cu5xpx/canvas/x5wx8sf4x4j-m4cubvz6/annotations/39kchdxi42m-m4cwtdfm",
+        "@type" : "sc:AnnotationList"
+      }
+    } ]
+  } ],
+  "structures" : [ ]
+}
